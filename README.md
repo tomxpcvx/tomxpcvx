@@ -2,8 +2,6 @@
 
 Working as Full Stack Developer from Dresden, Germany 🇩🇪
 
-Junior iOS Developer and Head of Development at [@alimonia](https://github.com/alimonia) by night 🌖
-
 [![Linkedin: Tom Pietsch](https://img.shields.io/badge/-Tom%20Pietsch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tom-pietsch/)](https://www.linkedin.com/in/tom-pietsch/)
 [![GitHub tomxpcvx](https://img.shields.io/github/followers/tomxpcvx?label=follow&style=social)](https://github.com/tomxpcvx)
 
@@ -12,7 +10,7 @@ Junior iOS Developer and Head of Development at [@alimonia](https://github.com/a
 ```javascript
 const tom = {
   age: 24,
-  pronouns: "he" | "him",
+  pronouns: "he/him",
   hobbies: [ "coding", "politics", "longboarding", "hiking", "🎉" ],
   job: "Full Stack Developer",
   from: "Dresden, Germany 🇩🇪",
