@@ -10,7 +10,7 @@ Working as JavaScript Developer for Conntected Car Projects at
 
 ```javascript
 const tom = {
-  age: 24,
+  age: 25,
   pronouns: "he/him",
   hobbies: [ "coding", "politics", "longboarding", "hiking", "🎉" ],
   job: "JavaScript Developer for Connected Car Projects",
